@@ -1,0 +1,15 @@
+{
+  "Name": "tester mod",
+  "Author": "str-js",
+  "Description": "test",
+  "ModVersion": "1.0",
+  "GameVersion": "1.8.1",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "script.cs"
+  ]
+}
